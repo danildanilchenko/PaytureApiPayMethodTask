@@ -1,1 +1,1 @@
-# Pay method task solution.
+Pay method task solution.
