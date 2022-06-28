@@ -1,1 +1,1 @@
-# PaytureApiPayMethodTask
+# Pay method task solution.
